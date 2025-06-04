@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang=" pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>meu primeiro site web</title>
+    <style>
+        body{
+            background-color: darkgrey;
+            color: azure;
+            font: normal 25 pt arial;
+
+        }
+        h1 {text-align: center;
+            color:deepskyblue
+  
+        }
+      p{text-align:center;
+      color: red
+      }
+      h2{text-align: center;
+	
+      }
+    </style>
+</head>
+<body>
+    <h1> ola mundo</h1>
+    <p> ja me livrei da maldição</p>
+  <h2> este e meu texto</h2>
+  <p>A programação é uma das habilidades mais valorizadas no mundo atual. Com o avanço da tecnologia, saber escrever código se tornou tão importante quanto saber ler e escrever em alguns contextos. Mas o que é, afinal, programar? Programar é dar instruções claras e lógicas para que um computador execute tarefas. Essas instruções são escritas em linguagens de programação, como Python, JavaScript, Java, C++, entre muitas outras.
+
+Cada linguagem tem suas características e propósitos. Python, por exemplo, é conhecida por sua sintaxe simples e legível, sendo ideal para iniciantes. Já C++ oferece um controle mais profundo sobre o hardware, sendo amplamente usado em jogos e sistemas embarcados. JavaScript é essencial para o desenvolvimento web, principalmente no lado do cliente.
+
+Além da escolha da linguagem, a lógica de programação é fundamental. Ela permite que o programador resolva problemas de forma eficiente. Estruturas como condicionais (if/else), laços (for/while) e funções são os blocos básicos do pensamento computacional. Sem uma boa lógica, o código pode até funcionar, mas será difícil de manter e escalar.
+
+Outro ponto importante é o versionamento de código. Ferramentas como Git e plataformas como GitHub ajudam equipes a colaborar, acompanhar mudanças e evitar conflitos. A prática de escrever testes automatizados também se tornou essencial, garantindo que o sistema funcione como esperado mesmo após atualizações.
+
+Por fim, programar vai além de digitar comandos. Exige raciocínio lógico, criatividade, paciência e uma constante vontade de aprender. A tecnologia muda rápido, e os bons programadores estão sempre estudando, seja com livros, cursos ou participando de comunidades. Programar é, acima de tudo, resolver problemas — e isso é o que torna essa área tão fascinante.
+
+</p>
+  
+ <footer>
+   O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) – Campus Tianguá está localizado no seguinte endereço:
+m.facebook.com
++6
+ifce.edu.br
++6
+doity.com.br
++6
+
+Avenida Tabelião Luiz Nogueira de Lima, s/n
+Bairro Santo Antônio
+CEP: 62324-075
+Tianguá – Ceará
+m.facebook.com
+
+Para facilitar a localização, você pode acessar o mapa através deste link: https://goo.gl/maps/WFyEGh3GDTz .
+ifce.edu.br
+
+   </footer>
+
+
+</body>
+</html>
